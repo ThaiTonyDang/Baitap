@@ -1,1 +1,2 @@
 !. tạo một file mồi init hoặc index để push lên nhánh chính trước. Tạo kho rồi mới chia nhánh để làm
+2 Bắt đầu tạo nhánh làm việc, tránh làm vô nhánh chính. ví dụ làm bài tập 1 thì tạo nhánh feature/bt1

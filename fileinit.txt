@@ -1,0 +1,1 @@
+!. tạo một file mồi init hoặc index để push lên nhánh chính trước. Tạo kho rồi mới chia nhánh để làm
